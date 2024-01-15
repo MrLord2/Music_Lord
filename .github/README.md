@@ -1,7 +1,7 @@
 ![Super-Music](https://graph.org/file/b0effba029d343cc82da1.jpg)
 تنصيب بوتات الميوزك لورد
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+SOURCE-FLASH+AN+ADVANCE+BOT)](https://github.com/FM8Y/Super-Quran)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+SOURCE-LORD+AN+ADVANCE+BOT)](https://github.com/FM8Y/Super-Quran)
 
 <p align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
