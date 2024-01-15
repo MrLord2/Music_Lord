@@ -1,7 +1,7 @@
 {
     "name": "⦓ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐋𝐎𝐑𝐃 ⦔",
     "description": "تنصيب بوت ميوزك لورد للمكالمات الصوتيه ",
-    "logo": "https://telegra.ph/file/738661f85fe3e4fd54d20.jpg",
+    "logo": "https://graph.org/file/46a9ce91a375639d65fbd.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -32,7 +32,7 @@
         "required": true
       },
       "SESSION": {
-        "description": "ضـع جلسة البايروجرام احصل عليها من هنا @termux1bot",
+        "description": "ضـع جلسة البايروجرام",
         "value": "",
         "required": true
       },
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "ضـع رابـط جـروب الـدعـم",
-        "value": "https://t.me/kwhiwjwwhj",
+        "value": "https://t.me/M_r_zC",
         "required": false
       }
     },
