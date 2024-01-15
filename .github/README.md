@@ -1,4 +1,4 @@
-![Super-Quran](https://graph.org/file/b0effba029d343cc82da1.jpg)
+![Super-Music](https://graph.org/file/b0effba029d343cc82da1.jpg)
 تنصيب بوتات الميوزك لورد
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+SOURCE-FLASH+AN+ADVANCE+BOT)](https://github.com/FM8Y/Super-Quran)
@@ -9,10 +9,10 @@
 
 </h3>
 <p align="center">
-<a href="https://telegram.me/FLS_45"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/M_r_zC"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/FLS_44"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/M_r_zC"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 تم تطوير و تعريب الملف بواسطة [LORD](https://t.me/M_R_C2)
